@@ -1,1 +1,1 @@
-# pizza-app
+Pizza shop (Next.js)
